@@ -1,4 +1,4 @@
-## I'm a highly versatile researcher who leverages long short-term memory (LSTM) recurrent neural networks (RNNs) to estimate time-dependent outcomes in a variety of real-world contexts. I am particularly interested in transfer learning and weights engineering. You can find me at: www.linkedin.com/in/william-chris-weston
+## Hi, I'm Chris, a versatile scientist who leverages long short-term memory (LSTM) recurrent neural networks (RNNs) to estimate temporal outcomes in a variety of real-world contexts (public health, ecology, business, etc). I am particularly interested in weights engineering and transfer learning. You can also find me at: www.linkedin.com/in/william-chris-weston
 
 <!--
 **weston-ai/weston-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

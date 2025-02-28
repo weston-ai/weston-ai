@@ -1,4 +1,4 @@
-## I use long short-term memory (LSTM) recurrent neural networks (RNNs) to predict temporal outcomes in a variety of use-cases (public health, ecology, and business). I am very interested in weights optimization and transfer learning. You can also find me at: www.linkedin.com/in/william-chris-weston
+## I use recurrent neural networks (RNNs) and statistics to predict temporal outcomes in a variety of use-cases (public health, ecology, and business). I am interested in network optimization, transfer learning, and data science. You can also find me at: www.linkedin.com/in/william-chris-weston
 
 <!--
 **weston-ai/weston-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

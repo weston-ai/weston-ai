@@ -1,4 +1,4 @@
-## Hi there 👋
+## I am a computational biologist with a robust foundation in molecular biology and biochemistry (i.e. wetlab). I love using discovery-based methods to investigate complex biological systems, and I am skilled at dissecting large datasets (e.g. metabolomics, transcriptomics, proteomics) to model physiological responses to drugs and toxins. Moreover, I am fluent in the application of biostatistics, machine learning, and deep learning (e.g. recurrent neural networks) to investigate biological outcomes in controlled trials and cohort studies.
 
 <!--
 **weston-ai/weston-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
